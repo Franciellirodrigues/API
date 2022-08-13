@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Application Programming Interface",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franciellirodrigues/API.git"
+  },
+  "keywords": [],
+  "author": "Francielli Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franciellirodrigues/API/issues"
+  },
+  "homepage": "https://github.com/Franciellirodrigues/API#readme"
+}
