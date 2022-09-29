@@ -27,8 +27,7 @@ $ npm run dev
 
 O projeto foi desenvolvido com [Node](https://nodejs.org/en/), [Knex](http://knexjs.org/) e [SQLite](https://www.sqlite.org/index.html) no **server-side**, [React](https://reactjs.org/) e [Styled-Components](https://styled-components.com/) no **client-side**.
 
-Clique <a href="https://github.com/M0nicaVaz/RocketNotes" target="_blank">aqui</a> para acessar o repositório do front!
 
-Com 💜 por <a href="https://www.linkedin.com/in/monica-vaz/" target="_blank"> Francielli Rodrigues</a>
+Com 💜 por <a href="https://www.linkedin.com/in/franciellirodrigues/" target="_blank"> Francielli Rodrigues</a>
 
 </div>
